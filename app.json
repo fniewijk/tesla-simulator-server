@@ -1,0 +1,6 @@
+{
+  "name": "Heroku app",
+  "description": "A barebones Python app, which can easily be deployed to Heroku.",
+  "image": "heroku/python",
+  "keywords": ["python"]
+}
